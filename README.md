@@ -1,2 +1,3 @@
-# storm
-A Powerful OS
+# Storm
+
+Storm is a very powerful Operating System.
